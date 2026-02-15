@@ -1,7 +1,3 @@
 one
 1
-<<<<<<< HEAD
 We are making changes in development area
-=======
-Hello
->>>>>>> main
