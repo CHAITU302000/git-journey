@@ -1,7 +1,5 @@
 one
 1
-
-=======
 Hello
 Added another feature
->>>>>>> Stashed changes
+
